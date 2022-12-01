@@ -1,0 +1,43 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1_cool {
+    color: rgb(0, 0, 0);
+    padding-top: 5px ;
+  }
+  
+  .btn_cool {
+    width: 190px;
+    height: 38px;
+    background-color: rgb(245, 180, 41);
+    color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
+    border-size: 1px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    
+  }
+  
+  .btn_cool:hover {
+    cursor: pointer;
+    border-color: rgb(245, 120, 18);
+    border-size: 1px;
+    background-color: black;
+    color: white;
+  }
+  
+  .box_cool {
+    margin: 0 auto;
+    text-align:center;
+    background-color: rgb(250, 231, 218);
+    width: 300px;
+    height: 120px;
+  }
+  
+  .p_cool {
+    margin: 8px 4px;
+  }
+  

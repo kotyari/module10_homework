@@ -1,0 +1,41 @@
+.h1_cool {
+    color: white;
+    padding-top: 5px ;
+  }
+  
+  .btn_cool {
+    width: 190px;
+    height: 38px;
+    background-color: red;
+    color: white;
+    border-color: white;
+    border-size: 1px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    
+  }
+  
+  .btn_cool:hover {
+    cursor: pointer;
+    border-color: red;
+    border-size: 1px;
+    background-color: black;
+  }
+  
+  .box_cool {
+    margin: 0 auto;
+    text-align:center;
+    background-color: black;
+    width: 300px;
+    height: 120px;
+  }
+  
+  .p_cool {
+    margin: 8px 4px;
+  }
+  
+  .btn_cool_icon {
+    margin: 8px 4px;
+    
+  }
